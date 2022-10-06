@@ -1,11 +1,17 @@
 💻 Este es mi stack actual:
 
 HTML5
+
 CSS3
+
 SASS
+
 JavaScript
+
 React.JS (estudiando)
+
 Backend (estudiando)
+
 
 👨‍🦱 Un poco acerca de mí:
 Tengo 25 años y vivo en Villa Adelina, San Isidro, Buenos Aires.
