@@ -8,9 +8,9 @@ SASS
 
 JavaScript
 
-React.JS (estudiando)
+React.JS (En curso).
 
-Backend (estudiando)
+Backend (En curso).
 
 
 👨‍🦱 Un poco acerca de mí:
