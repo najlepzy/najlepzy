@@ -28,7 +28,7 @@ Mi meta es irme del pais, tener una vida mucho mejor y mas tranquila.
 
 Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
 
-Javascript: (Proximamente)
+Javascript: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4)
 
 React.JS: (Proximamente)
 
