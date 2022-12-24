@@ -36,11 +36,11 @@ Mi meta es viajar hacia otros paises, tener una vida mejor y tranquila.
 
 Javascript- 15 de noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4
 
-React.JS: (En curso)
+React.JS: (En curso);
 
-Certificado de Desarrollador React:
+Certificado de Desarrollador React: (Proximamente);
 
-Back-end: (Proximamente)
+Back-end: (Proximamente);
 
 </div>
 
