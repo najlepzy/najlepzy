@@ -1,5 +1,5 @@
 <div>
-<img align "center" src= "https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="300" height="400"/>
+<img align "center" src= "https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="500" height="200"/>
 <h1 align="center">Hola, Mi nombre es Lautaro, me dicen Lauta o Naj 👨‍🦱</h1>
 <h3 align="center">Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end como autodidacta en 2021, actualmente 2022) estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
