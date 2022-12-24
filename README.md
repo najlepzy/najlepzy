@@ -1,13 +1,14 @@
 <div id="header" align="center">
-<img src= "https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="500" height="200"/>
-  
-<h1>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1> 
-  
-<h3>Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias</h3> <br>
-  <h3>Mis hobbies son jugar video juegos y tocar la guitarra</h3>
-  <br>
+    <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-</div> 
+    <h1>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1>
+
+    <h3>Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
+        tecnologias</h3>
+    <h3>Mis hobbies son jugar video juegos y tocar la guitarra</h3>
+    
+
+</div>
 
 
 💻 Este es mi stack actual:
@@ -30,9 +31,15 @@ Tengo 25 años y vivo en Moron, Buenos Aires.
 
 Finalice mis estudios secundarios en 2015 en el colegio Granaderos de Morón.
 
-Trabaje en varios rubros como el textil (atención al cliente y deposito), gastronomico (ayudante de cocina y cocinero) y atención al cliente, en el rubro automotriz (venta de auto partes), tambien realice un trabajo de marketing digital con google analitycs, review de estadisticas, fluctuabilidad y administración de paginas web por medio de wordpress y wix (Inmobiliaria paganini).
+Trabaje en varios rubros como el textil (atención al cliente y deposito), gastronomico (ayudante de cocina y cocinero) y
+atención al cliente, en el rubro automotriz (venta de auto partes), tambien realice un trabajo de marketing digital con
+google analitycs, review de estadisticas, fluctuabilidad y administración de paginas web por medio de wordpress y wix
+(Inmobiliaria paganini).
 
-Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end como autodidacta en 2021, actualmente 2022) estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
+Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end
+como autodidacta en 2021, actualmente 2022) estoy profundizando mis conocimientos en Coderhouse para ser Full Stack
+Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de
+trabajo.
 
 Mi meta es viajar hacia otros paises, tener una vida mucho mejor y tranquila.
 
@@ -44,6 +51,14 @@ Javascript- 15 de noviembre de 2022: https://www.coderhouse.com/certificados/637
 
 React.JS: (En curso)
 
-Certificado de Desarrollador React: 
+Certificado de Desarrollador React:
 
 Back-end: (Proximamente)
+
+<div align="left">
+    <h3>🔨Lenguajes y herramientas:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
+    </div>
+</div>
+
