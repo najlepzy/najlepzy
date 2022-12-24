@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-    <h1>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1>
+    Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱
  
     
      Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
@@ -30,7 +30,7 @@ trabajo.
 Mi meta es viajar hacia otros paises, tener una vida mejor y tranquila.
 
 
-<h2>📃 Cursos Finalizados:</h2>
+<h4>📃 Cursos Finalizados:</h4>
 <div align="center">
    Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
 
