@@ -30,8 +30,8 @@ Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certi
 
 Javascript- 15 de noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4
 
-React.JS: (Proximamente)
+React.JS: (En curso)
 
-Desarrolladro React.js: Proximamente)
+Certificado de Desarrollador React: 
 
 Back-end: (Proximamente)
