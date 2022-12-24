@@ -1,11 +1,11 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-    <h1 align="center">Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1>
+ Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱
     
-    <h3 align="center">Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
+     Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
         tecnologias
-    Mis hobbies son jugar video juegos y tocar la guitarra</h3>
+    Mis hobbies son jugar video juegos y tocar la guitarra
     
 
 </div>
