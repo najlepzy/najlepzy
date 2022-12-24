@@ -10,7 +10,7 @@ Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de 
 Mis hobbies son jugar video juegos y tocar la guitarra.
 </div>
 
-👨‍🦱 Un poco acerca de mí:
+Un poco acerca de mí:
 
 Tengo 25 años y vivo en Moron, Buenos Aires.
 
