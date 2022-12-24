@@ -1,14 +1,12 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-    Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱
+    <b>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj. 👨‍🦱
  
     
-     Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
-        tecnologias
-    Mis hobbies son jugar video juegos y tocar la guitarra
+     Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
     
-
+    Mis hobbies son jugar video juegos y tocar la guitarra.</b>
 </div>
 
 👨‍🦱 Un poco acerca de mí:
@@ -17,8 +15,8 @@ Tengo 25 años y vivo en Moron, Buenos Aires.
 
 Finalice mis estudios secundarios en 2015 en el colegio Granaderos de Morón.
 
-Trabaje en varios rubros como el textil (atención al cliente y deposito), gastronomico (ayudante de cocina y cocinero) y
-atención al cliente, en el rubro automotriz (venta de auto partes), tambien realice un trabajo de marketing digital con
+Trabaje en rubros como el textil (atención al cliente y deposito), gastronomico (ayudante de cocina y cocinero) y
+atención al cliente, en el rubro automotriz (venta de auto partes), tambien realice un trabajo como Community manager con
 google analitycs, review de estadisticas, fluctuabilidad y administración de paginas web por medio de wordpress y wix
 (Inmobiliaria paganini).
 
