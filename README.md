@@ -1,30 +1,14 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-    <h1>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1>
+    Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱
 
     <h3>Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas
         tecnologias</h3>
-    <h3>Mis hobbies son jugar video juegos y tocar la guitarra</h3>
+    Mis hobbies son jugar video juegos y tocar la guitarra</h3>
     
 
 </div>
-
-
-💻 Este es mi stack actual:
-
-HTML5
-
-CSS3
-
-SASS
-
-JavaScript
-
-React.JS (estudiando)
-
-Backend (estudiando)
-
 
 👨‍🦱 Un poco acerca de mí:
 Tengo 25 años y vivo en Moron, Buenos Aires.
@@ -41,7 +25,7 @@ como autodidacta en 2021, actualmente 2022) estoy profundizando mis conocimiento
 Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de
 trabajo.
 
-Mi meta es viajar hacia otros paises, tener una vida mucho mejor y tranquila.
+Mi meta es viajar hacia otros paises, tener una vida mejor y tranquila.
 
 📃 Cursos Finalizados:
 
@@ -56,7 +40,7 @@ Certificado de Desarrollador React:
 Back-end: (Proximamente)
 
 <div align="left">
-    <h3>💻🔨Lenguajes y herramientas:</h3>
+    <h3>💻 Stack actual:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
