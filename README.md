@@ -28,9 +28,10 @@ trabajo.
 
 Mi meta es viajar hacia otros paises, tener una vida mejor y tranquila.
 
-📃 Cursos Finalizados:
 
-Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
+<h2>📃 Cursos Finalizados:</h2>
+<div align="center">
+   Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
 
 Javascript- 15 de noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4
 
@@ -39,6 +40,8 @@ React.JS: (En curso)
 Certificado de Desarrollador React:
 
 Back-end: (Proximamente)
+
+</div>
 
 <div align="left">
     <h3>💻 Stack actual:</h3>
