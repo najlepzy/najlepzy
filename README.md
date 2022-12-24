@@ -1,12 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-    <b>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj. 👨‍🦱
+Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj. 👨‍🦱
  
     
-     Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
+Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
     
-    Mis hobbies son jugar video juegos y tocar la guitarra.</b>
+    
+Mis hobbies son jugar video juegos y tocar la guitarra.
 </div>
 
 👨‍🦱 Un poco acerca de mí:
@@ -21,11 +22,9 @@ google analitycs, review de estadisticas, fluctuabilidad y administración de pa
 (Inmobiliaria paganini).
 
 Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end
-como autodidacta en 2021, actualmente 2022) estoy profundizando mis conocimientos en Coderhouse para ser Full Stack
-Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de
-trabajo.
+como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
-Mi meta es viajar hacia otros paises, tener una vida mejor y tranquila.
+Mis metas son viajar por el mundo, poder disfrutar de los desafios que me genera programar y que me apasiona tanto dia a dia.
 
 
 <h4>📃 Cursos Finalizados:</h4>
