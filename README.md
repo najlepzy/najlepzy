@@ -11,6 +11,7 @@
 </div>
 
 👨‍🦱 Un poco acerca de mí:
+
 Tengo 25 años y vivo en Moron, Buenos Aires.
 
 Finalice mis estudios secundarios en 2015 en el colegio Granaderos de Morón.
