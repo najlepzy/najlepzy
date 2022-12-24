@@ -24,8 +24,6 @@ google analitycs, review de estadisticas, fluctuabilidad y administración de pa
 Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end
 como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
-Mis metas son viajar por el mundo, poder disfrutar de los desafios que me genera programar y que me apasiona tanto dia a dia.
-
 
 <h4>📃 Cursos Finalizados:</h4>
 <div align="center">
