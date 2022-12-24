@@ -3,10 +3,11 @@
   
 <h1>Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta o Naj 👨‍🦱</h1> 
   
-<h3>Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias
-  Mis hobbies son jugar video juegos y tocar la guitarra</h3>
+<h3>Soy un programador Front-End Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias</h3> <br>
+  <h3>Mis hobbies son jugar video juegos y tocar la guitarra</h3>
+  <br>
 
-</div>
+</div> 
 
 
 💻 Este es mi stack actual:
