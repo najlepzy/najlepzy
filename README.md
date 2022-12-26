@@ -25,7 +25,7 @@ Estudié Informatica en mi colegio, por lo cual tengo una base de programación,
 como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
 
-<h4>📃 Cursos Finalizados:</h4>
+<h3>📃 Cursos Finalizados:</h3>
 <div align="center">
    Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
 
