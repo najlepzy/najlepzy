@@ -12,7 +12,7 @@ Mis hobbies son jugar video juegos y tocar la guitarra.
 
 Un poco acerca de mí:
 
-Tengo 25 años y vivo en Moron, Buenos Aires.
+Tengo 25 años y vivo en Morón, Buenos Aires.
 
 Finalice mis estudios secundarios en 2015 en el colegio Granaderos de Morón.
 
