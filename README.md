@@ -29,11 +29,11 @@ como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse pa
 <div align="center">
    Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499
 
-Javascript- 15 de noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4
+Javascript- 15 de Noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4
 
-React.JS: (En curso);
+React.JS-31 de Enero 2023: https://www.coderhouse.com/certificados/63fecfa71ce4d3000e18c1ab
 
-Certificado de Desarrollador React: (Proximamente);
+Certificado deL curso Desarrollador Front-End React: https://www.coderhouse.com/certificados/63fecfa81ce4d3000e18c1ae;
 
 Back-end: (Proximamente);
 
