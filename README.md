@@ -27,7 +27,10 @@ como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse pa
 
 <h3>📃 Cursos Finalizados:</h3>
 <div align="center">
-Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499 *Top10* 🎉
+    
+    
+    Desarrollo Web- Coderhouse 30 Agosto del 2022: https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499 *Top10* 🎉)
+ 
 
 Javascript- 15 de Noviembre de 2022: https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4 *Top10* 🎉
 
