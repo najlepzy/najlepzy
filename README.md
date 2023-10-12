@@ -4,7 +4,7 @@
 Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta. 👨‍🦱
  
     
-Soy un programador Full-Stack Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
+Soy programador Full-Stack Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
     
     
 Mis hobbies son jugar video juegos y tocar la guitarra.
