@@ -22,7 +22,7 @@ google analitycs, review de estadisticas, fluctuabilidad y administración de pa
 (Inmobiliaria paganini).
 
 Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end
-como autodidacta en 2021, estoy profundizando mis conocimientos en Coderhouse para ser Full Stack Developer, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
+como autodidacta en 2018, estoy profundizando mis conocimientos en Coderhouse y tomando conferencias predenciales, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
 
 <h3>📃 Cursos Finalizados:</h3>
