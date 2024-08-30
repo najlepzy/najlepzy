@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
-  <h1>Hola, soy Lautaro Aguirre Ponzo, me dicen Lauta 👨‍🦱</h1>
+  <h1>Hola, soy Lautaro Aguirre Ponzo, me dicen Lauta</h1>
 </div>
 
 <p align="center">
