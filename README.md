@@ -35,8 +35,7 @@
 
 ## 💻 Stack Actual
 
-<div align="left">
-    <h3>💻 Stack actual:</h3>
+<div align="center">
     <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
