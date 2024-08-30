@@ -38,13 +38,10 @@
 <div align="left">
     <h3>💻 Stack actual:</h3>
     <div>
-        <!-- Basic Web Development -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap5" alt="Bootstrap5" width="40" height="40">&nbsp;
-
-        <!-- JavaScript and Frameworks -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
@@ -52,20 +49,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
-
-        <!-- Backend and DevOps -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40" height="40">&nbsp;
-
-        <!-- Databases -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
-
-        <!-- Version Control and Other Tools -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40">&nbsp;
