@@ -21,7 +21,7 @@
 
 ## 📃 Cursos Finalizados
 
-<div align="center">
+<div>
   <ul>
     <li>Desarrollo Web - Coderhouse (30 Agosto 2022) - <a href="https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499">Certificado</a> - Top 10 🎉</li>
     <li>Javascript - Coderhouse (15 Noviembre 2022) - <a href="https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4">Certificado</a> - Top 10 🎉</li>
