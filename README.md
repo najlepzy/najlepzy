@@ -3,7 +3,7 @@
   <h1>Hola, soy Lautaro Aguirre Ponzo, me dicen Lauta</h1>
 </div>
 
-<p>
+<p align="center">
   Soy programador Full-Stack Argentino, con la meta de seguir buscando conocimiento en nuevas tecnologías.
   Mis hobbies son jugar videojuegos y tocar la guitarra.
 </p>
