@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
 
-Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta. 👨‍🦱
+# Hola, Mi nombre es Lautaro Aguirre Ponzo, me dicen Lauta. 👨‍🦱
  
     
 Soy programador Full-Stack Argentino, mi meta actual es seguir nutriendome de conocimiento en nuevas tecnologias.
@@ -10,9 +10,9 @@ Soy programador Full-Stack Argentino, mi meta actual es seguir nutriendome de co
 Mis hobbies son jugar video juegos y tocar la guitarra.
 </div>
 
-Un poco acerca de mí:
+## Un poco acerca de mí:
 
-Tengo 26 años y vivo en Morón, Buenos Aires.
+Tengo 26 años y vivo en Buenos Aires.
 
 Finalice mis estudios secundarios en 2015 en el colegio Granaderos de Morón.
 
@@ -22,10 +22,10 @@ google analitycs, review de estadisticas, fluctuabilidad y administración de pa
 (Inmobiliaria paganini).
 
 Estudié Informatica en mi colegio, por lo cual tengo una base de programación, tambien realice practicas de front-end
-como autodidacta en 2018, estoy profundizando mis conocimientos en Coderhouse y tomando conferencias predenciales, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
+como autodidacta en 2018, estoy profundizando mis conocimientos en Coderhouse y tomando conferencias presenciales, planeo seguir realizando cursos IT para poder perfeccionar mis conocimientos y actualizar mis herramientas de trabajo.
 
 
-<h3>📃 Cursos Finalizados:</h3>
+## 📃Cursos Finalizados:
 <div align="center">
 Desarrollo Web- Coderhouse 30 Agosto del 2022 : https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499 Top10 🎉
 
