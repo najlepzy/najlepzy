@@ -14,7 +14,6 @@
 
 - **Edad:** 26 años
 - **Ubicación:** Buenos Aires, Argentina
-- **Educación:** Finalicé mis estudios secundarios en 2015 en el Colegio Granaderos de Morón.
 - **Experiencia Laboral:** He trabajado en rubros como el textil, gastronómico, automotriz, y como Community Manager utilizando Google Analytics, además de administrar sitios web con WordPress y Wix (Inmobiliaria Paganini).
 - **Autodidacta:** Comencé con prácticas de front-end en 2018.
 - **Formación Continua:** Actualmente me estoy formando en Coderhouse y asistiendo a conferencias presenciales, con planes de continuar cursos IT.
