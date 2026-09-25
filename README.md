@@ -1,6 +1,6 @@
 # Lautaro Ponzo
 
-**Senior Full Stack Developer** · React · React Native · TypeScript · Java + Spring Boot · Node.js
+**Senior Full Stack Developer** · React · React Native · TypeScript · Java + Spring Boot · Node.js<br>
 Buenos Aires, Argentina · Remote
 
 Full Stack Developer with 7 years of experience building web and mobile products. Strong foundation in frontend and mobile with React, React Native and TypeScript, and backend experience with Java and Spring Boot in fintech and with Node.js and NestJS at startups.
@@ -9,11 +9,11 @@ Fintech (micro-loans, P2P transfers, third-party payments, biometric validation)
 
 ## Experience
 
-- **Conexa** · Senior Mobile Developer · 2025 – Present
+- **Conexa** · Senior Mobile Developer · 2025 – Present<br>
   React Native for Intramed (social network for doctors) and Santander Peru's digital wallet (Pomelo integration).
-- **GlobalLogic** · Full Stack Developer · 2023 – 2025
+- **GlobalLogic** · Full Stack Developer · 2023 – 2025<br>
   Claro Pay: Java 21 + Spring Boot micro-loans backend, biometric validation with Equifax, OpenShift + Jenkins, React Native investments module, micro-frontends admin portal.
-- **Superior Digital** · Senior Full Stack Developer · 2023
+- **Superior Digital** · Senior Full Stack Developer · 2023<br>
   Node.js / NestJS / Prisma APIs, real-time chat with Socket.io, AWS deployments (Elastic Beanstalk, S3, API Gateway).
 - **Spartan Elite Rugby** · React Native Developer (Freelance) · 2021 – 2022
 - **Proveat** · Junior Frontend Developer · 2019 – 2021
