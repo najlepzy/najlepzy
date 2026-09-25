@@ -73,8 +73,6 @@ Fintech (micro-loans, P2P transfers, third-party payments, biometric validation)
 |---|---|
 | [Task Manager — Backend](https://github.com/najlepzy/LemonCashBE) | NestJS · PostgreSQL · Prisma · JWT · Zod |
 | [Task Manager — Frontend](https://github.com/najlepzy/LemonCashFE) | React · TypeScript · real-time Kanban |
-| [Conexa challenge](https://github.com/najlepzy/Conexa-challenge-FE) | React Native · Expo |
-| [Digs calendar](https://github.com/najlepzy/Digs-challenge) | React Native · iOS & Android |
 | [Ecommerce backend](https://github.com/najlepzy/EcommerceBackend) | Node.js · Express · MongoDB |
 
 ## Contact
