@@ -67,12 +67,3 @@ Fintech (micro-loans, P2P transfers, third-party payments, biometric validation)
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/lautaroponzo) · lautanaj@hotmail.com
-
-<details>
-<summary>🇦🇷 Versión en español</summary>
-
-Desarrollador Full Stack con 7 años de experiencia en productos web y mobile. Base sólida en frontend y mobile con React, React Native y TypeScript, y experiencia en backend con Java y Spring Boot en fintech y con Node.js y NestJS en startups.
-
-Experiencia en fintech (microcréditos, transferencias P2P, pagos a terceros, validación biométrica) y en salud, con participación en code review, onboarding y evaluación técnica de candidatos.
-
-</details>
