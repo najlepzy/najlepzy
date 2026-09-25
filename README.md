@@ -1,69 +1,52 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/uUDpKzAhqTcA1daVXc/giphy.gif" width="450" height="200" />
-  <h1>Hola, soy Lautaro Aguirre Ponzo, me dicen Lauta</h1>
-</div>
+# Lautaro Ponzo
 
-<p align="center">
-  Soy programador Full-Stack Argentino, con la meta de seguir buscando conocimiento en nuevas tecnologías.
-  Mis hobbies son jugar videojuegos y tocar la guitarra.
+**Senior Full Stack Developer** · React · React Native · TypeScript · Java + Spring Boot · Node.js
+Buenos Aires, Argentina · Remote
+
+Full Stack Developer with 7 years of experience building web and mobile products. Strong foundation in frontend and mobile with React, React Native and TypeScript, and backend experience with Java and Spring Boot in fintech and with Node.js and NestJS at startups.
+
+Fintech (micro-loans, P2P transfers, third-party payments, biometric validation) and healthcare products, plus code review, onboarding and technical assessment of candidates.
+
+## Experience
+
+- **Conexa** · Senior Mobile Developer · 2025 – Present
+  React Native for Intramed (social network for doctors) and Santander Peru's digital wallet (Pomelo integration).
+- **GlobalLogic** · Full Stack Developer · 2023 – 2025
+  Claro Pay: Java 21 + Spring Boot micro-loans backend, biometric validation with Equifax, OpenShift + Jenkins, React Native investments module, micro-frontends admin portal.
+- **Superior Digital** · Senior Full Stack Developer · 2023
+  Node.js / NestJS / Prisma APIs, real-time chat with Socket.io, AWS deployments (Elastic Beanstalk, S3, API Gateway).
+- **Spartan Elite Rugby** · React Native Developer (Freelance) · 2021 – 2022
+- **Proveat** · Junior Frontend Developer · 2019 – 2021
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,nestjs,express,java,spring,mongodb,postgres,prisma&perline=14" alt="Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,firebase,swift,kotlin,jest,git&perline=14" alt="Tools" />
 </p>
 
----
+**Also:** React Native · Expo / EAS · Maven · Mockito · SonarQube · Red Hat OpenShift · Webpack Module Federation · Socket.io · Sentry · Datadog
 
-## 🌍 Un poco acerca de mí
+## Featured projects
 
-- **Edad:** 26 años
-- **Ubicación:** Buenos Aires, Argentina
-- **Experiencia Laboral:** He trabajado en rubros como el textil, gastronómico, automotriz, y como Community Manager utilizando Google Analytics, además de administrar sitios web con WordPress y Wix (Inmobiliaria Paganini).
-- **Autodidacta:** Comencé con prácticas de front-end en 2018.
-- **Formación Continua:** Actualmente me estoy formando en Coderhouse y asistiendo a conferencias presenciales, con planes de continuar cursos IT.
+| Project | Stack |
+|---|---|
+| [Task Manager — Backend](https://github.com/najlepzy/LemonCashBE) | NestJS · PostgreSQL · Prisma · JWT · Zod |
+| [Task Manager — Frontend](https://github.com/najlepzy/LemonCashFE) | React · TypeScript · real-time Kanban |
+| [Conexa challenge](https://github.com/najlepzy/Conexa-challenge-FE) | React Native · Expo |
+| [Digs calendar](https://github.com/najlepzy/Digs-challenge) | React Native · iOS & Android |
+| [Ecommerce backend](https://github.com/najlepzy/EcommerceBackend) | Node.js · Express · MongoDB |
 
-## 📃 Cursos Finalizados
+## Contact
 
-<div>
-  <ul>
-    <li>Desarrollo Web - Coderhouse (30 Agosto 2022) - <a href="https://www.coderhouse.com/certificados/632f6d790a05d5000e4e8499">Certificado</a> - Top 10 🎉</li>
-    <li>Javascript - Coderhouse (15 Noviembre 2022) - <a href="https://www.coderhouse.com/certificados/637cd01482f8cd000ea28ae4">Certificado</a> - Top 10 🎉</li>
-    <li>React.JS - Coderhouse (31 Enero 2023) - <a href="https://www.coderhouse.com/certificados/63fecfa71ce4d3000e18c1ab">Certificado</a> - Top 10 🎉</li>
-    <li>Desarrollador Front-End React - Coderhouse - <a href="https://www.coderhouse.com/certificados/63fecfa81ce4d3000e18c1ae">Certificado</a> - Top 10 🎉</li>
-    <li>Back-end: (Próximamente)</li>
-  </ul>
-</div>
+[LinkedIn](https://www.linkedin.com/in/lautaroponzo) · lautanaj@hotmail.com
 
----
+<details>
+<summary>🇦🇷 Versión en español</summary>
 
-## 💻 Stack Actual
+Desarrollador Full Stack con 7 años de experiencia en productos web y mobile. Base sólida en frontend y mobile con React, React Native y TypeScript, y experiencia en backend con Java y Spring Boot en fintech y con Node.js y NestJS en startups.
 
-<div align="center">
-    <div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap5" alt="Bootstrap5" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40">&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">&nbsp;
-    </div>
-</div>
+Experiencia en fintech (microcréditos, transferencias P2P, pagos a terceros, validación biométrica) y en salud, con participación en code review, onboarding y evaluación técnica de candidatos.
 
+</details>
